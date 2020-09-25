@@ -1,7 +1,7 @@
 # test
 <html>
   <head>
-    <title>Github chenges 2020</title>
+    <title>Github changes 2020</title>
   </head>
   <body>
   </body>
